@@ -1,15 +1,15 @@
 {
     "contract": "bodhi.seed.v1",
     "source_node": "100048777766367/seed",
-    "timestamp": 1791983922,
-    "decision": 0.38191645454756246,
+    "timestamp": 1791984063,
+    "decision": 0.39378954880885997,
     "command_pulse": [
-        0.3819,
-        0.6181
+        0.3938,
+        0.6062
     ],
     "features": [
-        0.3819,
-        0.6181
+        0.3938,
+        0.6062
     ],
     "gossip_network": [
         "100048777766367/retina",
@@ -17,5 +17,5 @@
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "0a404a48340e22fe9d006f60382a94f002e7077490b3d2c7efd5eee4021570861f8321e2759a2409da15cc81bd9234248624db56a7961be08d9c4ea375cccd34"
+    "quantum_cid": "b0784da24b9beade4aaa3747f54956ae06992621779f6cd9a059204bdc51fddfe57aee77895a43f037e2b9083049ce1ad9ec43b01666d354f9f6309802ab1627"
 }
