@@ -1,9 +1,9 @@
 {
     "contract": "bodhi.seed.v1",
     "source_node": "100048777766367/seed",
-    "timestamp": 1795747100,
+    "timestamp": 1795786056,
     "gradients_for_eye": [
-        -0.001,
+        -0.0009,
         -0.0003
     ],
     "super_xor_masks": {
@@ -38,5 +38,5 @@
         "100048777766367/tactile",
         "100048777766367/olfactory"
     ],
-    "quantum_cid": "78b8821dbe1fb76fe215093703c1b2d179ed755f0e0eb193dfa517a73eeac97e27db6a5caf8edbeb05c8d9b3f68a981b93392f278ae5e0579859d0831bb77829"
+    "quantum_cid": "e866cdb0190d36a03f29289ff94f0d32a10cca5779d8b67a6f81213be2e973347122de7de5d8b70617f902c561458410a7b30e1f60b8f50b9479569deaf7b523"
 }
